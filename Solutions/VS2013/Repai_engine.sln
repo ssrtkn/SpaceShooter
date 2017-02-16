@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Physics", "Physics.vcxproj", "{D3744CEC-972D-40E7-BE00-E197A49EFFE9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Render", "Render.vcxproj", "{FB7B8186-B0A6-4431-A872-E1467B43A067}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Repai_engine", "Repai_engine.vcxproj", "{DD8E93C1-AAEB-45BE-BFEF-685D7A6908CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3744CEC-972D-40E7-BE00-E197A49EFFE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3744CEC-972D-40E7-BE00-E197A49EFFE9}.Debug|x86.Build.0 = Debug|Win32
+		{D3744CEC-972D-40E7-BE00-E197A49EFFE9}.Release|x86.ActiveCfg = Release|Win32
+		{D3744CEC-972D-40E7-BE00-E197A49EFFE9}.Release|x86.Build.0 = Release|Win32
+		{FB7B8186-B0A6-4431-A872-E1467B43A067}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB7B8186-B0A6-4431-A872-E1467B43A067}.Debug|x86.Build.0 = Debug|Win32
+		{FB7B8186-B0A6-4431-A872-E1467B43A067}.Release|x86.ActiveCfg = Release|Win32
+		{FB7B8186-B0A6-4431-A872-E1467B43A067}.Release|x86.Build.0 = Release|Win32
+		{DD8E93C1-AAEB-45BE-BFEF-685D7A6908CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD8E93C1-AAEB-45BE-BFEF-685D7A6908CA}.Debug|x86.Build.0 = Debug|Win32
+		{DD8E93C1-AAEB-45BE-BFEF-685D7A6908CA}.Release|x86.ActiveCfg = Release|Win32
+		{DD8E93C1-AAEB-45BE-BFEF-685D7A6908CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

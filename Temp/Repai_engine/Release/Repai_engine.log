@@ -1,0 +1,12 @@
+﻿  myFrameListener.cpp
+..\..\Repai_engine\myFrameListener.cpp(25): warning C4154: deletion of an array expression; conversion to pointer supplied
+..\..\Repai_engine\myFrameListener.cpp(127): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Generating code
+  1 of 338 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Repai_engine.vcxproj -> C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_Game\Solutions\VS2015\..\..\Binaries\Release\Repai_engine.exe
+  Repai_engine.vcxproj -> C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_Game\Solutions\VS2015\..\..\Binaries\Release\Repai_engine.pdb (Full PDB)
+  C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_Game\Solutions\VS2015\..\..\External\Assimp\Assimp32.dll
+  1 Datei(en) kopiert

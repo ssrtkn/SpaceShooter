@@ -1,0 +1,46 @@
+﻿  Window.cpp
+  Viewport.cpp
+  Shadow.cpp
+  SceneNode.cpp
+  SceneManager.cpp
+  SceneImporter.cpp
+  Root.cpp
+  RenderSystem.cpp
+  Render.cpp
+  MovableObject.cpp
+  MeshSphere.cpp
+  MeshGrid.cpp
+  MeshFromFile.cpp
+  MeshCube.cpp
+  Mesh.cpp
+  MaterialFromFile.cpp
+  Material.cpp
+  Light.cpp
+  GameTimer.cpp
+  GameObject.cpp
+  Generating Code...
+  Compiling...
+  FrameListener.cpp
+  EntityLight.cpp
+  EntityColor.cpp
+  Entity.cpp
+  Effect.cpp
+  dxerr.cpp
+  dllmain.cpp
+  D3DUtility.cpp
+  CameraProjective.cpp
+  CameraOrtho.cpp
+  Camera.cpp
+  AssetManager.cpp
+  Animation.cpp
+  Generating Code...
+Effects11d.lib(EffectAPI.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Solutions\VS2015\..\..\Binaries\Debug\Render.lib and object C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Solutions\VS2015\..\..\Binaries\Debug\Render.exp
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4099: PDB 'Effects11.pdb' was not found with 'Effects11d.lib(d3dxGlobal.obj)' or at 'C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Binaries\Debug\Effects11.pdb'; linking object as if no debug info
+Effects11d.lib(EffectAPI.obj) : warning LNK4099: PDB 'Effects11.pdb' was not found with 'Effects11d.lib(EffectAPI.obj)' or at 'C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Binaries\Debug\Effects11.pdb'; linking object as if no debug info
+Effects11d.lib(EffectLoad.obj) : warning LNK4099: PDB 'Effects11.pdb' was not found with 'Effects11d.lib(EffectLoad.obj)' or at 'C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Binaries\Debug\Effects11.pdb'; linking object as if no debug info
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4099: PDB 'Effects11.pdb' was not found with 'Effects11d.lib(EffectNonRuntime.obj)' or at 'C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Binaries\Debug\Effects11.pdb'; linking object as if no debug info
+Effects11d.lib(EffectReflection.obj) : warning LNK4099: PDB 'Effects11.pdb' was not found with 'Effects11d.lib(EffectReflection.obj)' or at 'C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Binaries\Debug\Effects11.pdb'; linking object as if no debug info
+Effects11d.lib(EffectRuntime.obj) : warning LNK4099: PDB 'Effects11.pdb' was not found with 'Effects11d.lib(EffectRuntime.obj)' or at 'C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Binaries\Debug\Effects11.pdb'; linking object as if no debug info
+  Render.vcxproj -> C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Solutions\VS2015\..\..\Binaries\Debug\Render.dll
+  Render.vcxproj -> C:\Users\ssrtk\Documents\Visual Studio 2015\Projects\REPAI_Task_4\Solutions\VS2015\..\..\Binaries\Debug\Render.pdb (Full PDB)
